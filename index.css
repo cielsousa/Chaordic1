@@ -1,0 +1,44 @@
+*{
+    font-family: Helvetica,  Helvetica Neue;
+    margin: 0;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 69px;
+}
+
+#div-form-text{
+    display: flex;
+}
+
+#form-cadastro{
+    display: block;
+}
+
+#div-form{
+    display: block;
+}
+
+button{
+    background-color: #191970;
+    width: 160px;
+    height: 40px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 14px;
+}
+
+#butt-share{
+    transform: rotate(-0.25turn);
+}
+
+button:hover{
+    background-color: #000080;
+    width: 100px;
+    height: 80px;
+}
+
